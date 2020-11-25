@@ -1865,11 +1865,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CrgsS\\source\\repos\\TesteAhoy\\MicroServiceAhoy\\MicroServiceAhoy\\MicroServiceAhoy.csproj",
+      "projectUniqueName": "C:\\Users\\CrgsS\\Source\\Repos\\MicroServiceAhoy\\MicroServiceAhoy\\MicroServiceAhoy.csproj",
       "projectName": "MicroServiceAhoy",
-      "projectPath": "C:\\Users\\CrgsS\\source\\repos\\TesteAhoy\\MicroServiceAhoy\\MicroServiceAhoy\\MicroServiceAhoy.csproj",
+      "projectPath": "C:\\Users\\CrgsS\\Source\\Repos\\MicroServiceAhoy\\MicroServiceAhoy\\MicroServiceAhoy.csproj",
       "packagesPath": "C:\\Users\\CrgsS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CrgsS\\source\\repos\\TesteAhoy\\MicroServiceAhoy\\MicroServiceAhoy\\obj\\",
+      "outputPath": "C:\\Users\\CrgsS\\Source\\Repos\\MicroServiceAhoy\\MicroServiceAhoy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CrgsS\\AppData\\Roaming\\NuGet\\NuGet.Config",
