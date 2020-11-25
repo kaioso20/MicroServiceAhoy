@@ -1,0 +1,9 @@
+C:\Users\CrgsS\source\repos\TesteAhoy\MicroServiceAhoy\Context\bin\Debug\netstandard2.0\Context.deps.json
+C:\Users\CrgsS\source\repos\TesteAhoy\MicroServiceAhoy\Context\bin\Debug\netstandard2.0\Context.dll
+C:\Users\CrgsS\source\repos\TesteAhoy\MicroServiceAhoy\Context\bin\Debug\netstandard2.0\Context.pdb
+C:\Users\CrgsS\source\repos\TesteAhoy\MicroServiceAhoy\Context\obj\Debug\netstandard2.0\Context.csprojAssemblyReference.cache
+C:\Users\CrgsS\source\repos\TesteAhoy\MicroServiceAhoy\Context\obj\Debug\netstandard2.0\Context.AssemblyInfoInputs.cache
+C:\Users\CrgsS\source\repos\TesteAhoy\MicroServiceAhoy\Context\obj\Debug\netstandard2.0\Context.AssemblyInfo.cs
+C:\Users\CrgsS\source\repos\TesteAhoy\MicroServiceAhoy\Context\obj\Debug\netstandard2.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\CrgsS\source\repos\TesteAhoy\MicroServiceAhoy\Context\obj\Debug\netstandard2.0\Context.dll
+C:\Users\CrgsS\source\repos\TesteAhoy\MicroServiceAhoy\Context\obj\Debug\netstandard2.0\Context.pdb

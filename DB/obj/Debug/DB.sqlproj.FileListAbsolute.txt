@@ -1,0 +1,6 @@
+C:\Users\CrgsS\source\repos\TesteAhoy\MicroServiceAhoy\DB\bin\Debug\DB.dacpac
+C:\Users\CrgsS\source\repos\TesteAhoy\MicroServiceAhoy\DB\bin\Debug\DB.dll
+C:\Users\CrgsS\source\repos\TesteAhoy\MicroServiceAhoy\DB\bin\Debug\DB.pdb
+C:\Users\CrgsS\source\repos\TesteAhoy\MicroServiceAhoy\DB\obj\Debug\DB.sqlprojAssemblyReference.cache
+C:\Users\CrgsS\source\repos\TesteAhoy\MicroServiceAhoy\DB\obj\Debug\DB.dll
+C:\Users\CrgsS\source\repos\TesteAhoy\MicroServiceAhoy\DB\obj\Debug\DB.pdb
